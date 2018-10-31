@@ -7,3 +7,6 @@ Jalan jalan men
 
 
 ## TODO
+
+## License
+MIT. See License
